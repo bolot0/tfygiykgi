@@ -1,0 +1,15 @@
+.lab {
+    color: red;
+}
+.formD{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+}
+.inp{
+    width: 300px;
+    height: 40px;
+    border-radius: 8px;
+    font-size: large;
+}
